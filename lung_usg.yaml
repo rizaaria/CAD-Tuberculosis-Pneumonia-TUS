@@ -1,0 +1,14 @@
+names:
+- kavitas
+- pola_b
+- konsolidasi
+- penebalan_pleura
+- bullae
+- infiltrat_terkonsolidasi
+- pleura_ireguler
+- normal
+nc: 8
+path: C:\Riza\Dataset\output\split
+test: images/test
+train: images/train
+val: images/val
